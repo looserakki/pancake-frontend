@@ -12,7 +12,7 @@ const WalletNotConnected = () => {
         {t('Oops!')}
       </Heading>
       <Text as="p" mb="16px">
-        {t('Please connect your wallet to continue')}
+        {t('Please connect your wallet to continue DeCode')}
       </Text>
       <ConnectWalletButton />
     </div>
